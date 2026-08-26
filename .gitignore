@@ -1,0 +1,12 @@
+# makepkg output
+/pkg/
+/src/
+/*.deb
+/*.pkg.tar.*
+/*.sig
+
+# Local tooling
+/.idea/
+/.vscode/
+*.swp
+*~
